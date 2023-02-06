@@ -7,4 +7,4 @@ Run:
 
 Run in detached mode:
 
-`docker run -p 9999:5000` -d <name of the image>
+`docker run -p 9999:5000 -d <name of the image>`
